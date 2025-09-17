@@ -1,0 +1,13 @@
+{
+  "name": "relogate-website",
+  "version": "1.0.0",
+  "description": "Relogate website",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build needed'",
+    "start": "echo 'Static site ready'"
+  },
+  "keywords": ["relogate"],
+  "author": "Relogate",
+  "license": "MIT"
+}
